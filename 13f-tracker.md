@@ -8,3 +8,9 @@ https://13f.info/manager/0001681490-cascade-investment-advisors-inc
 Duquesne Family Office LLC (Stanley Druckenmiller)
 https://13f.info/manager/0001536411-duquesne-family-office-llc
 
+Altimeter Capital Management, LP (altimeter.com)
+https://13f.info/manager/0001541617-altimeter-capital-management-lp
+
+Stockbridge Partners LLC (berkshirepartners.com/stockbridge/)
+https://13f.info/manager/0001505183-stockbridge-partners-llc
+
