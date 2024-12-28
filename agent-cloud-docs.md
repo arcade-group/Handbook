@@ -2,7 +2,9 @@
 
 *Build a data-to-insight machine that can deliver improved returns, institutional grade tracking, and performance reporting — all run on low cost, scalable, managed cloud infrastructure. With the latest AI models integrated to remove toil, provide contextual analysis, and highlight insights.*
 
-*Our OODA Loop: Signals Collection ⇢ Sense Making ⇢ Decisioning (Alpha Generation). We need to be in the Top 0.1% of each step and consistently execute them well to be successful.*
+*Our OODA Loop: Research ⇢ Company Selection. Portfolio Construction ⇢ Refinement ⇢ Deployment ⇢ Signals Collection ⇢ Sense Making ⇢ Decisioning*
+
+*We seek to generate alpha in every one of those steps. To do that, we need to be in the top 10% of our peers at step of our process.*
 
 **Sections:**
 
