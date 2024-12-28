@@ -4,7 +4,7 @@
 
 *Our OODA Loop: Foundational Research ⇢ Company Selection ⇢ Portfolio Construction ⇢ Refinement ⇢ Deployment ⇢ Signals Collection ⇢ Sense Making ⇢ Reporting (Decision Support) ⇢ Decisioning*
 
-*We seek to generate alpha in every one of those steps. To do that, we need to be in the top 5% of our peers at each step consistently — day in and day out.*
+*We seek to generate alpha in every one of those steps. To do that, we need to be in the top 5% of our peers at each step consistently — day in and day out. Our goal is to relentlessly get faster and better at each. To win on speed, rigor, and discipline.*
 
 **Sections:**
 
