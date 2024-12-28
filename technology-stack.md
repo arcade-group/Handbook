@@ -19,6 +19,14 @@ We use Cloudflare DNS because it delivers a secure and resilient DNS service wit
 We use AWS as the core of our entire infrastructure because we believe it allows us to focus more strategically while improving development velocity the most long-term. That is because AWS offers extremely low costs (pay per use), leading reliability (uptime), and handles all of the manual toil of engineering maintenance and improvement 24/7/365. We believe in always utilizing third-party owned, managed infrastructure whenever we can — which includes very heavy use of APIs.
 
 [Manage AWS →]()
+
+Services we use:
+* Lambda
+* RDS (PostgreSQL)
+* EventBridge
+* SQS
+* Glue
+* Secrets Manager
 <br/><br/>
 
 **Public Websites (Sites)**
