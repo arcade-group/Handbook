@@ -4,7 +4,7 @@
 
 *Our OODA Loop: Research ⇢ Company Selection. Portfolio Construction ⇢ Refinement ⇢ Deployment ⇢ Signals Collection ⇢ Sense Making ⇢ Decisioning*
 
-*We seek to generate alpha in every one of those steps. To do that, we need to be in the top 10% of our peers at step of our process.*
+*We seek to generate alpha in every one of those steps. To do that, we need to be in the top 5% of our peers at each step consistently — day in and day out.*
 
 **Sections:**
 
