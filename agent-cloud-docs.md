@@ -2,6 +2,9 @@
 
 *Build a data-to-insight machine that can deliver improved returns, institutional grade tracking, and performance reporting — all run on low cost, scalable, managed cloud infrastructure. With the latest AI models integrated to remove toil, provide contextual analysis, and highlight insights.*
 
+**Our OODA Loop**
+*Signals Collection ⇢ Sense Making ⇢ Human Pairing ⇢ Decisioning*
+
 **Sections:**
 
 [Overview](#overview)\
