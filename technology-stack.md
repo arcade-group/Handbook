@@ -1,4 +1,4 @@
-## Technology Stack
+## Architecture and Technology Stack
 
 **Domain Registrar**
 
