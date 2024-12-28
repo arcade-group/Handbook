@@ -25,7 +25,7 @@ We use AWS as the core of our entire infrastructure because we believe it allows
 
 We use a mixture of Framer (on newer sites) and Webflow (for large CMS sites) as the front ends for our public websites. They’re affordable and remove most of the manual labor historically involved in designing, building, and hosting a website.
 
-[Manage Framer →]()
+[Manage Framer →]()<br/>
 [Manage Webflow →]()
 <br/><br/>
 
@@ -33,6 +33,6 @@ We use a mixture of Framer (on newer sites) and Webflow (for large CMS sites) as
 
 We use Dropbox (or Amazon S3) for all of our publicly facing documents, which are typically offered for download via blog post or linked to as a document.
 
-[Manage S3 →]()
+[Manage S3 →]()<br/>
 [Manage Dropbox →]()
 <br/><br/>
