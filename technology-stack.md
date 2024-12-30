@@ -34,7 +34,7 @@ Services we use:
 
 ---
 
-**Data Pipeline (Dagster+)**
+**Data Orchestration (Dagster+)**
 
 We use Dagster as our data orchestrator responsible for running all of our existing data pipelines, monitoring them in real-time, and quickly shipping new pipelines.
 
