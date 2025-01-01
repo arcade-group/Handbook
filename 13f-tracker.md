@@ -2,7 +2,7 @@
 
 We track the following firms through their quarterly 13F disclosures. These are one of many inputs into our investment research process and are considered part of our external signals collections work.
 
-SCGE Management, L.P. (Sequoia Capital Global Equitie)
+SCGE Management, L.P. (Sequoia Capital Global Equities)
 https://www.sequoiacap.com/scge/
 https://13f.info/manager/0001537530-scge-management-l-p
 CIK: 0001537530
@@ -35,6 +35,16 @@ ICONIQ Capital, LLC (ICONIQ - SV Based Family Office for $1B+ Founders)
 https://www.iconiqcapital.com
 https://13f.info/manager/0001569709-iconiq-capital-llc
 CIK: 0001569709
+
+MILLER VALUE PARTNERS, LLC (Bill Miller's Fund)
+https://millervalue.com
+https://13f.info/manager/0001135778-miller-value-partners-llc
+CIK: 0001135778
+
+Horizon Kinetics Asset Management LLC (Horizon Kinetics)
+https://horizonkinetics.com
+https://13f.info/manager/0001056823-horizon-kinetics-asset-management-llc
+CIK: 0001056823
 
 Swiss National Bank
 https://13f.info/manager/0001582202-swiss-national-bank
