@@ -24,7 +24,7 @@ We use AWS as the core of our entire infrastructure because we believe it allows
 
 Services we use:
 * ECS
-* RDS (PostgreSQL)
+* S3
 * EventBridge
 * SQS
 * Secrets Manager
@@ -40,6 +40,14 @@ We use Dagster as our data orchestrator responsible for running all of our exist
 
 [Manage Dagster+ ›](https://dagster.cloud)
 <br/><br/>
+
+---
+
+**Database System (DuckDB)**
+
+We use DuckDB to transform our data and run analytical queries. DuckDB's columnar engine supports parallel execution and processes larger-than-memory workloads.
+
+[Learn DuckDB+ ›](https://duckdb.org)
 
 ---
 
