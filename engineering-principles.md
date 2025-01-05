@@ -1,6 +1,11 @@
 # Arcade's Engineering Principles
 
-This document captures the cornerstones of Arcade's engineering culture. As a result of following the framework, product development may sometimes come to a screeching halt. The work itself may be tedious and frustrating. Progress may take many multiples of the time it would take using other methods.
+---
+
+*We're deeply inspired by Stedi's approach to engineering, outlined in **[The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)**. Below is an excerpt from that post.*
+
+
+This document captures the cornerstones of Stedi's engineering culture. As a result of following the framework, product development may sometimes come to a screeching halt. The work itself may be tedious and frustrating. Progress may take many multiples of the time it would take using other methods.
 
 This impact is short term, immaterial, and ultimately irrelevant. The framework aligns with our long-term ambitions; nothing is more important than keeping a high bar across these dimensions.
 
@@ -59,7 +64,7 @@ In the fight against entropy, we use the following prioritization framework for 
 ### Selection framework for component sources
 
 * Optimize for a cohesive set of components rather than selecting best-in-breed options, even when more compelling or popular alternatives exist.
-* When choosing a set of components, invest in continuously-compounding ecosystems built by high-velocity organizations who are philosophically aligned with Arcade. Current ecosystems include AWS (infrastructure) and GitHub (source control, build, and deployment).
+* When choosing a set of components, invest in continuously-compounding ecosystems built by high-velocity organizations who are philosophically aligned with Stedi. Current ecosystems include AWS (infrastructure) and GitHub (source control, build, and deployment).
 * Introduce new ecosystems at a clear boundary (e.g., GitHub for source control, build, and deployment of code; AWS for running the code), rather than in the middle of a system. For example, we would not use a database hosted at PlanetScale in an otherwise all-AWS backend.
 
 ### Refactors
@@ -78,7 +83,7 @@ That said, large-scale lateral migrations (lifting-and-shifting that results in 
 
 **Discussing tradeoffs**
 
-Like all approaches to building software, Arcade’s approach comes with many tradeoffs – including, but certainly not limited to:
+Like all approaches to building software, Stedi’s approach comes with many tradeoffs – including, but certainly not limited to:
 * Managed services, open source libraries, and open standards often have steep learning curves and poor documentation; they are often inflexible and lacking functionality.
 * Managed services are harder to test, slower to iterate against, and harder to diagnose; they are expensive and have unpredictable roadmaps.
 * Maintaining infrastructure as code is tedious and painful.
@@ -96,7 +101,7 @@ Technology evolves rapidly. All features and functionality we use today did not 
 
 When hitting a roadblock or an apparent dead end – for example, when it appears that a certain managed service or library isn’t able to do something – draw a distinction between when you’ve definitively determined that something is not supported, vs. when you’ve exhausted ideas that you’ve come up with but have not definitively proven it isn’t possible.
 
-In other words: **‘Absence of evidence’ is not ‘evidence of absence.’** False determinations of impossibilities are extremely costly to us, particularly because the false determination in one corner of Arcade spreads to all of Arcade.
+In other words: **‘Absence of evidence’ is not ‘evidence of absence.’** False determinations of impossibilities are extremely costly to us, particularly because the false determination in one corner of Stedi spreads to all of Stedi.
 
 Something is definitive when you can provide a link to source documentation confirming that it isn’t possible.
 * Acceptable: “A Lambda can’t run for more than 15 minutes – see documentation: Function timeout – 900 seconds (15 minutes).”
