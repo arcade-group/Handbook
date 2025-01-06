@@ -1,8 +1,14 @@
 # Arcade's Engineering Principles
 
+We take how we build our products and services extremely seriously. Because we believe that our values, principles, and approach to building are felt in everything that we build.
+
+Below is a series of references that form the philosophical touchstones we use to inform how we build everything that we build at [Arcade](https://arcade.group).
+
 ---
 
-*We're deeply inspired by Stedi's approach to engineering, outlined in **[The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)**. Below is an excerpt from that post.*
+### Stedi's Laws of Engineering
+
+*We're deeply inspired by Stedi's approach to engineering, outlined in **[The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)**. Here's an excerpt that aligns with our principles and approach at Arcade:*
 
 
 This document captures the cornerstones of Stedi's engineering culture. As a result of following the framework, product development may sometimes come to a screeching halt. The work itself may be tedious and frustrating. Progress may take many multiples of the time it would take using other methods.
@@ -148,3 +154,21 @@ Without this step, our software has little hope of delivering the results we wan
 Note that a doc doesn’t necessarily have to take the form of prose – in some cases, the right format for a doc could be a proposed API spec with bullet point lists of constraints, principles, or requirements. The goal of a doc is to reify your thinking and to share it with others.
 
 As a final thought, not everyone has to write docs here. Some people just want to execute, and there is plenty of room for that, too – but if you just want to execute, you’ll be executing on the plan, architecture, or implementation described in someone else’s doc. Our domain is too complex, and our ambitions are too large to build software willy-nilly.
+
+---
+
+### Google's Site Reliability Engineering Principles
+
+*We're deeply inspired by Stedi's approach to engineering, outlined in **[The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)**. Here's an excerpt that aligns with our principles and approach at Arcade:*
+
+
+Add ideas here…
+
+---
+
+### Bloomberg's 
+
+*We're deeply inspired by Stedi's approach to engineering, outlined in **[The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)**. Here's an excerpt that aligns with our principles and approach at Arcade:*
+
+
+Add ideas here…
